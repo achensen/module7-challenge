@@ -41,6 +41,9 @@ function generateMarkdown(data) {
 ${renderLicenseLink(data.license)}
 * [Installation](#installtion)
 * [Usage](#usage)
+* [Contribution](#contribution)
+* [Contact Information]
+* [Link to Walkthough Video]
 
 ## Description
 ${data.description}
@@ -49,7 +52,7 @@ ${renderLicenseSection(data.license)}
 ## Installation
 ${data.installation}
 
-## 
+## Usage
 ${data.usage}
 
 ## Contact Information
