@@ -64,7 +64,7 @@ My GitHub account is [GitHub Account Link](https://github.com/${data.github})
 To email me you can contact me at ${data.email}
 
 ## Walkthrough Video
-Please follow this link for my Screencastify walkthrough
+Please follow this link for my Screencastify walkthrough : (https://drive.google.com/file/d/1Fbw6axhlFMiJxUUH7ICsi03kmoCCwY_k/view)
 
 ## Additional Notes 
 I did recieve tutoring assistance to help with my understanding of this assignment. I was having an issue in VS code 

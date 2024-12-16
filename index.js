@@ -36,7 +36,7 @@ inquirer
       },
       {
         type: 'input',
-        message: 'What are the project contribution guidelines?',
+        message: 'Who contributed to this project?',
         name: 'contribution',
       },
       {
