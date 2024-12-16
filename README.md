@@ -1,32 +1,31 @@
-# Module 7
-  ![license badge](https://img.shields.io/badge/license-MIT-blue)
+# x
+  
 ## Table of Contents
 * [Description](#description)
-* [License](#license)
+
 * [Installation](#installtion)
 * [Usage](#usage)
 * [Contribution](#contribution)
-* [Contact Information](#contact information)
-* [Walkthough Video](#walkthrough video)
-* [Additional Notes](#additional notes)
+* [Contact Information](#contact-information)
+* [Walkthough Video](#walkthrough-video)
+* [Additional Notes](#additional-notes)
 
 ## Description
-Homework for Bootcamp
-## License
-  This project is licensed with MIT
+x
+
 
 ## Installation
-NPM Inquire
+x
 
 ## Usage
-Grading
+x
 
 ## Contributions
-Myself, Tutoring
+x
 
 ## Contact Information
-My GitHub account is [GitHub Account Link](https://github.com/achensen)
-To email me you can contact me at erinrjacobsen@gmail.com
+My GitHub account is [GitHub Account Link](https://github.com/x)
+To email me you can contact me at x
 
 ## Walkthrough Video
 Please follow this link for my Screencastify walkthrough
