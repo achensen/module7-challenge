@@ -1,31 +1,32 @@
-# x
-  
+# Module 7
+  ![license badge](https://img.shields.io/badge/license-MIT-blue)
 ## Table of Contents
 * [Description](#description)
-
+* [License](#license)
 * [Installation](#installation)
 * [Usage](#usage)
-* [Contribution](#contribution)
+* [Contributions](#contributions)
 * [Contact Information](#contact-information)
 * [Walkthough Video](#walkthrough-video)
 * [Additional Notes](#additional-notes)
 
 ## Description
-x
-
+Challenge 7 for Bootcamp
+## License
+  This project is licensed with MIT
 
 ## Installation
-x
+This project uses npm inquirer.js
 
 ## Usage
-x
+To generate a README file with information from the CLI with inquirer
 
 ## Contributions
-x
+I coded this project with tutoring assistance, see additional notes
 
 ## Contact Information
-My GitHub account is [GitHub Account Link](https://github.com/x)
-To email me you can contact me at x
+My GitHub account is [GitHub Account Link](https://github.com/achensen)
+To email me you can contact me at erinrjacobsen@gmail.com
 
 ## Walkthrough Video
 Please follow this link for my Screencastify walkthrough
