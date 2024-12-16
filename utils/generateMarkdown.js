@@ -42,9 +42,9 @@ ${renderLicenseLink(data.license)}
 * [Installation](#installtion)
 * [Usage](#usage)
 * [Contribution](#contribution)
-* [Contact Information](#contact information)
-* [Walkthough Video](#walkthrough video)
-* [Additional Notes](#additional notes)
+* [Contact Information](#contact-information)
+* [Walkthough Video](#walkthrough-video)
+* [Additional Notes](#additional-notes)
 
 ## Description
 ${data.description}
@@ -67,7 +67,7 @@ To email me you can contact me at ${data.email}
 Please follow this link for my Screencastify walkthrough
 
 ## Additional Notes 
-I did recieve tutoring assistance to help with my unerstanding of this assignment. I was having an issue in VS code 
+I did recieve tutoring assistance to help with my understanding of this assignment. I was having an issue in VS code 
 where writeFile was not overwriting my previous ReadMe that I generated. My tutor helped me trouble shoot this issue 
 by showing me how to redownload my window in VS code, I also verbally walked through all the code to make sure my conceptual
 understanding was accuarate, and I got clarification on ternary operators like the one used in lines 74/75 of my index.js.
