@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Description](#description)
 
-* [Installation](#installtion)
+* [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
 * [Contact Information](#contact-information)
