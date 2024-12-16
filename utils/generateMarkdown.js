@@ -39,9 +39,19 @@ function generateMarkdown(data) {
 ## Table of Contents
 * [Description](#description)
 ${renderLicenseLink(data.license)}
+* [Installation](#installtion)
+* [Usage](#usage)
+
 ## Description
 ${data.description}
 ${renderLicenseSection(data.license)}
+
+## Installation
+${data.installation}
+
+## 
+${data.usage}
+
 ## Contact Information
 My GitHub account is [GitHub Account Link](https://github.com/${data.github})
 To email me you can contact me at ${data.email}
